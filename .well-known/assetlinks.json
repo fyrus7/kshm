@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.pages.kshm.twa",
+        "sha256_cert_fingerprints": ["B9:6F:BE:EC:FB:EE:F1:B1:3A:E0:E8:0B:9B:C3:1B:02:0F:83:74:BB:26:7D:5C:91:19:A4:11:A0:38:9A:0C:4D"]
+      }
+    }]
